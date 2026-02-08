@@ -1,4 +1,4 @@
-# 📘 README – POC de Autenticação via API Key em Aplicação Spring Boot
+# 📘 POC de Autenticação via API Key em Aplicação Spring Boot
 
 Este projeto demonstra uma **Proof of Concept (POC)** para implementação de autenticação baseada em **API Key** em uma aplicação web utilizando **Spring Boot** e **Servlet Filters**.
 
@@ -75,7 +75,3 @@ curl -i -H "Authorization: Bearer API_60bKrLrQOoB1sNCOPGPLZtxFyIVSoupUhA5p7rU3kk
 - Ideal para **POCs, serviços internos ou integrações rápidas**.
 - Não substitui mecanismos robustos como **OAuth2, JWT ou OpenID Connect** em cenários de produção.
 - Pode ser facilmente adaptado para múltiplas chaves ou armazenamento em banco de dados.
-
----
-
-Quer que eu também adicione uma seção de **testes automatizados com JUnit** para validar o filtro de API Key? Isso deixaria o README ainda mais completo e profissional.
